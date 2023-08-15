@@ -30,6 +30,7 @@ jobs:
     # Запускаем flake8
     # ffff
     # hghghgg
+    # 3333
     - name: Test with flake8
       # Вызываем flake8 и указываем ему,
       # что нужно проверить файлы только в папке backend/
